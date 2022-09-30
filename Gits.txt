@@ -1,0 +1,116 @@
+C:\Users\abhis\Desktop\Gg>git add .
+
+C:\Users\abhis\Desktop\Gg>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   Bharat mata ki Jai.txt
+
+
+C:\Users\abhis\Desktop\Gg>git commmit -m "initial"
+git: 'commmit' is not a git command. See 'git --help'.
+
+The most similar command is
+        commit
+
+C:\Users\abhis\Desktop\Gg>git commit -m "initial"
+[master (root-commit) 4e8817a] initial
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Bharat mata ki Jai.txt
+
+C:\Users\abhis\Desktop\Gg>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\abhis\Desktop\Gg>git commit -m "something something"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\abhis\Desktop\Gg>git branch -M main
+
+C:\Users\abhis\Desktop\Gg>git remote add origin https://github.com/Ayuuxx/oo.git
+
+C:\Users\abhis\Desktop\Gg>git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 241 bytes | 241.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Ayuuxx/oo.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\abhis\Desktop\Gg>
+C:\Users\abhis\Desktop\Gg>
+C:\Users\abhis\Desktop\Gg> sfdfdfsfasasdasd
+'sfdfdfsfasasdasd' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\abhis\Desktop\Gg>
+C:\Users\abhis\Desktop\Gg>
+C:\Users\abhis\Desktop\Gg>
+C:\Users\abhis\Desktop\Gg>
+C:\Users\abhis\Desktop\Gg>
+C:\Users\abhis\Desktop\Gg>
+C:\Users\abhis\Desktop\Gg>git add .
+
+C:\Users\abhis\Desktop\Gg>status
+'status' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\abhis\Desktop\Gg>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   suicide.txt
+
+
+C:\Users\abhis\Desktop\Gg>git commit -m "he"
+[main b33f7a6] he
+ 1 file changed, 1 insertion(+)
+ create mode 100644 suicide.txt
+
+C:\Users\abhis\Desktop\Gg>git push -u origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 305 bytes | 305.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Ayuuxx/oo.git
+   4e8817a..b33f7a6  main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\abhis\Desktop\Gg>git add astrophysics.txt
+
+C:\Users\abhis\Desktop\Gg>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   astrophysics.txt
+
+
+C:\Users\abhis\Desktop\Gg>git commit -m "ashmit is quite a retard"
+[main b854e4b] ashmit is quite a retard
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 astrophysics.txt
+
+C:\Users\abhis\Desktop\Gg>git push -u origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 330 bytes | 330.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Ayuuxx/oo.git
+   b33f7a6..b854e4b  main -> main
+branch 'main' set up to track 'origin/main'.
